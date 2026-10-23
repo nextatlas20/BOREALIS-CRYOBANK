@@ -1,0 +1,12 @@
+specimen_id,station,storage_limit_c,priority
+SP-101,Aurora,-20,HIGH
+SP-102,Beacon,-18,STANDARD
+SP-103,Aurora,-25,HIGH
+SP-104,Cinder,-15,STANDARD
+SP-105,Dawn,-10,LOW
+SP-106,Beacon,-30,HIGH
+SP-107,Fjord,-12,STANDARD
+SP-107,Fjord,-12,STANDARD
+BAD-108,Elm,-16,HIGH
+SP-109,,-14,STANDARD
+SP-110,Elm,-5,LOW
